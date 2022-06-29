@@ -1,6 +1,6 @@
 name: AWS Assume Role
 description: Assumes an IAM Role before running the build command.
-author: https://github.com/cultureamp
+author: https://github.com/tgamSachin
 requirements:
   - aws
 configuration:
